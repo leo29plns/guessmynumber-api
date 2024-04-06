@@ -13,18 +13,14 @@ export class DataHandler
     {
         const randomIndex = Math.floor(Math.random() * this.data.length);
         const randomObject: DataObject = this.data[randomIndex];
+        const transactionLocale = (locale && randomObject.translations[locale]) ? locale : randomObject.defaultLocale;
 
         return {
-            toGuess: randomObject.toGuess,
-            type: randomObject.type,
-            subject: this.getSubject(randomObject, locale)
+            "toGuess": randomObject.toGuess,
+            "type": randomObject.type,
+            "subject": randomObject.translations[transactionLocale],
+            "locale": transactionLocale
         };
-    }
-
-    private getSubject(randomObject: DataObject, locale?: string): string
-    {
-        const defaultLocale = randomObject.defaultLocale;
-        return (locale && randomObject.translations[locale]) ? randomObject.translations[locale] : randomObject.translations[defaultLocale];
     }
 
     setData(data: DataObject[])
