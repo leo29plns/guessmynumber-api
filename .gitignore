@@ -1,0 +1,11 @@
+###> dependencies/dependencies ###
+/node_modules
+###< dependencies/dependencies ###
+
+###> app/production ###
+/dist
+###< app/production ###
+
+###> app/misc ###
+.DS_Store
+###< app/misc ###

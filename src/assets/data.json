@@ -1,0 +1,439 @@
+{
+    "updated": "2024-04-05T20:40:45.920Z",
+    "credit": "Copyright (c) 2024 PLANUS Léo",
+    "license": "MIT License",
+    "data": [
+        {
+            "toGuess": 3.141592653,
+            "type": "number",
+            "defaultLocale": "en-EN",
+            "translations": {
+                "en-EN": "Pi value",
+                "fr-FR": "Valeur de Pi"
+            }
+        },
+        {
+            "toGuess": "2001-01-15",
+            "type": "date",
+            "defaultLocale": "en-EN",
+            "translations": {
+                "en-EN": "Creation of Wikipedia",
+                "fr-FR": "Création de Wikipédia"
+            }
+        },
+        {
+            "toGuess": "1515",
+            "type": "date",
+            "defaultLocale": "en-EN",
+            "translations": {
+                "en-EN": "Marignan",
+                "fr-FR": "Marignan"
+            }
+        },
+        {
+            "toGuess": 8675309,
+            "type": "number",
+            "defaultLocale": "en-EN",
+            "translations": {
+                "en-EN": "Jenny's number",
+                "fr-FR": "Numéro de Jenny"
+            }
+        },
+        {
+            "toGuess": "1985-01-01",
+            "type": "date",
+            "defaultLocale": "en-EN",
+            "translations": {
+                "en-EN": "Back to the Future",
+                "fr-FR": "Retour vers le futur"
+            }
+        },
+        {
+            "toGuess": "404",
+            "type": "number",
+            "defaultLocale": "en-EN",
+            "translations": {
+                "en-EN": "Error 404",
+                "fr-FR": "Erreur 404"
+            }
+        },
+        {
+            "toGuess": "2010-05-22",
+            "type": "date",
+            "defaultLocale": "en-EN",
+            "translations": {
+                "en-EN": "Bitcoin pizza day",
+                "fr-FR": "Journée de la pizza Bitcoin"
+            }
+        },
+        {
+            "toGuess": 42,
+            "type": "number",
+            "defaultLocale": "en-EN",
+            "translations": {
+                "en-EN": "The answer to the ultimate question of life, the universe, and everything",
+                "fr-FR": "La réponse à la question ultime de la vie, de l'univers et de tout"
+            }
+        },
+        {
+            "toGuess": "1776-07-04",
+            "type": "date",
+            "defaultLocale": "en-EN",
+            "translations": {
+                "en-EN": "Declaration of Independence",
+                "fr-FR": "Déclaration d'indépendance"
+            }
+        },
+        {
+            "toGuess": "1492-10-12",
+            "type": "date",
+            "defaultLocale": "en-EN",
+            "translations": {
+                "en-EN": "Discovery of America",
+                "fr-FR": "Découverte de l'Amérique"
+            }
+        },
+        {
+            "toGuess": 8675309,
+            "type": "number",
+            "defaultLocale": "en-EN",
+            "translations": {
+                "en-EN": "Jenny's number",
+                "fr-FR": "Numéro de Jenny"
+            }
+        },
+        {
+            "toGuess": "1912-04-15",
+            "type": "date",
+            "defaultLocale": "en-EN",
+            "translations": {
+                "en-EN": "Titanic sinking",
+                "fr-FR": "Naufrage du Titanic"
+            }
+        },
+        {
+            "toGuess": "1945-08-06",
+            "type": "date",
+            "defaultLocale": "en-EN",
+            "translations": {
+                "en-EN": "Atomic bomb on Hiroshima",
+                "fr-FR": "Bombe atomique sur Hiroshima"
+            }
+        },
+        {
+            "toGuess": "2008-09-15",
+            "type": "date",
+            "defaultLocale": "en-EN",
+            "translations": {
+                "en-EN": "Lehman Brothers bankruptcy",
+                "fr-FR": "Faillite de Lehman Brothers"
+            }
+        },
+        {
+            "toGuess": "1955-11-05",
+            "type": "date",
+            "defaultLocale": "en-EN",
+            "translations": {
+                "en-EN": "Birth of the flux capacitor",
+                "fr-FR": "Naissance du condensateur de flux"
+            }
+        },
+        {
+            "toGuess": "1903-12-17",
+            "type": "date",
+            "defaultLocale": "en-EN",
+            "translations": {
+                "en-EN": "First flight by the Wright brothers",
+                "fr-FR": "Premier vol par les frères Wright"
+            }
+        },
+        {
+            "toGuess": 1234567890,
+            "type": "number",
+            "defaultLocale": "en-EN",
+            "translations": {
+                "en-EN": "The number that looks like a countdown",
+                "fr-FR": "Le nombre qui ressemble à un compte à rebours"
+            }
+        },
+        {
+            "toGuess": "1989-11-09",
+            "type": "date",
+            "defaultLocale": "en-EN",
+            "translations": {
+                "en-EN": "Fall of the Berlin Wall",
+                "fr-FR": "Chute du mur de Berlin"
+            }
+        },
+        {
+            "toGuess": "1492-08-03",
+            "type": "date",
+            "defaultLocale": "en-EN",
+            "translations": {
+                "en-EN": "Christopher Columbus sets sail",
+                "fr-FR": "Christophe Colomb prend la mer"
+            }
+        },
+        {
+            "toGuess": 8675309,
+            "type": "number",
+            "defaultLocale": "en-EN",
+            "translations": {
+                "en-EN": "Jenny's number",
+                "fr-FR": "Numéro de Jenny"
+            }
+        },
+        {
+            "toGuess": "1969-07-20",
+            "type": "date",
+            "defaultLocale": "en-EN",
+            "translations": {
+                "en-EN": "First moon landing",
+                "fr-FR": "Premier alunissage"
+            }
+        },
+        {
+            "toGuess": "1989-05-04",
+            "type": "date",
+            "defaultLocale": "en-EN",
+            "translations": {
+                "en-EN": "Release of the Game Boy",
+                "fr-FR": "Sortie de la Game Boy"
+            }
+        },
+        {
+            "toGuess": 8675309,
+            "type": "number",
+            "defaultLocale": "en-EN",
+            "translations": {
+                "en-EN": "Jenny's number",
+                "fr-FR": "Numéro de Jenny"
+            }
+        },
+        {
+            "toGuess": "1984-01-24",
+            "type": "date",
+            "defaultLocale": "en-EN",
+            "translations": {
+                "en-EN": "Macintosh launch",
+                "fr-FR": "Lancement de Macintosh"
+            }
+        },
+        {
+            "toGuess": "1980-12-08",
+            "type": "date",
+            "defaultLocale": "en-EN",
+            "translations": {
+                "en-EN": "Murder of John Lennon",
+                "fr-FR": "Meurtre de John Lennon"
+            }
+        },
+        {
+            "toGuess": "1986-04-26",
+            "type": "date",
+            "defaultLocale": "en-EN",
+            "translations": {
+                "en-EN": "Chernobyl disaster",
+                "fr-FR": "Catastrophe de Tchernobyl"
+            }
+        },
+        {
+            "toGuess": 8675309,
+            "type": "number",
+            "defaultLocale": "en-EN",
+            "translations": {
+                "en-EN": "Jenny's number",
+                "fr-FR": "Numéro de Jenny"
+            }
+        },
+        {
+            "toGuess": "1991-08-06",
+            "type": "date",
+            "defaultLocale": "en-EN",
+            "translations": {
+                "en-EN": "World Wide Web goes live",
+                "fr-FR": "World Wide Web entre en service"
+            }
+        },
+        {
+            "toGuess": "2012-12-21",
+            "type": "date",
+            "defaultLocale": "en-EN",
+            "translations": {
+                "en-EN": "Mayan calendar doomsday",
+                "fr-FR": "Fin du monde selon le calendrier maya"
+            }
+        },
+        {
+            "toGuess": "1953-01-01",
+            "type": "date",
+            "defaultLocale": "en-EN",
+            "translations": {
+                "en-EN": "First color TV",
+                "fr-FR": "Première télévision couleur"
+            }
+        },
+        {
+            "toGuess": 8675309,
+            "type": "number",
+            "defaultLocale": "en-EN",
+            "translations": {
+                "en-EN": "Jenny's number",
+                "fr-FR": "Numéro de Jenny"
+            }
+        },
+        {
+            "toGuess": "1945-05-08",
+            "type": "date",
+            "defaultLocale": "en-EN",
+            "translations": {
+                "en-EN": "Victory in Europe Day",
+                "fr-FR": "Jour de la Victoire en Europe"
+            }
+        },
+        {
+            "toGuess": "1995-04-25",
+            "type": "date",
+            "defaultLocale": "en-EN",
+            "translations": {
+                "en-EN": "Release of Windows 95",
+                "fr-FR": "Sortie de Windows 95"
+            }
+        },
+        {
+            "toGuess": "1998-09-04",
+            "type": "date",
+            "defaultLocale": "en-EN",
+            "translations": {
+                "en-EN": "Google founded",
+                "fr-FR": "Fondation de Google"
+            }
+        },
+        {
+            "toGuess": "1961-04-12",
+            "type": "date",
+            "defaultLocale": "en-EN",
+            "translations": {
+                "en-EN": "First human in space",
+                "fr-FR": "Premier humain dans l'espace"
+            }
+        },
+        {
+            "toGuess": 8675309,
+            "type": "number",
+            "defaultLocale": "en-EN",
+            "translations": {
+                "en-EN": "Jenny's number",
+                "fr-FR": "Numéro de Jenny"
+            }
+        },
+        {
+            "toGuess": "1977-05-25",
+            "type": "date",
+            "defaultLocale": "en-EN",
+            "translations": {
+                "en-EN": "Star Wars release",
+                "fr-FR": "Sortie de Star Wars"
+            }
+        },
+        {
+            "toGuess": "1981-08-12",
+            "type": "date",
+            "defaultLocale": "en-EN",
+            "translations": {
+                "en-EN": "IBM PC release",
+                "fr-FR": "Sortie de l'IBM PC"
+            }
+        },
+        {
+            "toGuess": "1963-11-22",
+            "type": "date",
+            "defaultLocale": "en-EN",
+            "translations": {
+                "en-EN": "Assassination of JFK",
+                "fr-FR": "Assassinat de JFK"
+            }
+        },
+        {
+            "toGuess": "1969-08-15",
+            "type": "date",
+            "defaultLocale": "en-EN",
+            "translations": {
+                "en-EN": "Woodstock",
+                "fr-FR": "Woodstock"
+            }
+        },
+        {
+            "toGuess": 8675309,
+            "type": "number",
+            "defaultLocale": "en-EN",
+            "translations": {
+                "en-EN": "Jenny's number",
+                "fr-FR": "Numéro de Jenny"
+            }
+        },
+        {
+            "toGuess": "1972-01-22",
+            "type": "date",
+            "defaultLocale": "en-EN",
+            "translations": {
+                "en-EN": "Apollo 17 last mission",
+                "fr-FR": "Dernière mission Apollo 17"
+            }
+        },
+        {
+            "toGuess": "1994-05-06",
+            "type": "date",
+            "defaultLocale": "en-EN",
+            "translations": {
+                "en-EN": "Opening of the Channel Tunnel",
+                "fr-FR": "Ouverture du Tunnel sous la Manche"
+            }
+        },
+        {
+            "toGuess": "1983-01-01",
+            "type": "date",
+            "defaultLocale": "en-EN",
+            "translations": {
+                "en-EN": "Internet becomes a thing",
+                "fr-FR": "Internet devient une chose"
+            }
+        },
+        {
+            "toGuess": "1941-12-07",
+            "type": "date",
+            "defaultLocale": "en-EN",
+            "translations": {
+                "en-EN": "Pearl Harbor attack",
+                "fr-FR": "Attaque de Pearl Harbor"
+            }
+        },
+        {
+            "toGuess": 8675309,
+            "type": "number",
+            "defaultLocale": "en-EN",
+            "translations": {
+                "en-EN": "Jenny's number",
+                "fr-FR": "Numéro de Jenny"
+            }
+        },
+        {
+            "toGuess": "2011-05-02",
+            "type": "date",
+            "defaultLocale": "en-EN",
+            "translations": {
+                "en-EN": "Death of Osama bin Laden",
+                "fr-FR": "Mort d'Osama bin Laden"
+            }
+        },
+        {
+            "toGuess": "1993-02-26",
+            "type": "date",
+            "defaultLocale": "en-EN",
+            "translations": {
+                "en-EN": "World Trade Center bombing",
+                "fr-FR": "Attentat au World Trade Center"
+            }
+        }
+    ]
+}
